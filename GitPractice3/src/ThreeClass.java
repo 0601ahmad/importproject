@@ -12,6 +12,7 @@ public class ThreeClass {
 		}
 		System.out.println("The sum of numbers are: "+sumResult);
 		System.out.println("The multiplies of numbers are: "+multiResult);
+		System.out.println("This is not prefecdt");
 			
 		
 
